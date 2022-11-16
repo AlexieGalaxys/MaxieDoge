@@ -17,4 +17,6 @@ Here are some ideas to get you started:
 
 - 🌱 I’m currently learning Python & Java!
 - 📫 How to reach me:
+  - Discord: Maxie#0246
+  - Twitter: <https://twitter.com/Maxiedoge>
 - 😄 Pronouns: She/Her
