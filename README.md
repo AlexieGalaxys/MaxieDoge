@@ -18,6 +18,5 @@ Here are some ideas to get you started:
 I'm Maxie, a random dog on the internet attempting to become a developer!
 - 🌱 I’m currently learning Python & Java!
 - 📫 How to reach me:
-  - Discord: Maxie#0246
-  - Twitter: <https://twitter.com/Maxiedoge>
+  - Discord: **@Maxie#0246**
 - 😄 Pronouns: She/Her
