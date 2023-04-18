@@ -16,7 +16,13 @@ Here are some ideas to get you started:
 -->
 
 I'm Maxie, a random dog on the internet attempting to become a developer!
-- 🌱 I’m currently learning Python & Java!
+- 🌱 I have knowledge in:
+  - Python
+  - HTML & CSS
+  - Java
+  - JavaScript (really basic)
+  - SQL
+  - XML (lovin' it! *not really*)
 - 📫 How to reach me:
   - Discord: **@Maxie#0246**
 - 😄 Pronouns: She/Her
