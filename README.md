@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I'm Maxie, a random dog on the internet attempting to become a developer!
+I'm Maxie, a random dog on the internet aiming to become a developer!
 - 🧠I have knowledge in:
   - Python (my fav 💖💖💖😩)
   - HTML & CSS
