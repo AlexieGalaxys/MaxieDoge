@@ -1,7 +1,7 @@
 ### Hai there!
 
 <!--
-**MaxieDoge/MaxieDoge** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**AlexieGalaxys/AlexieGalaxys** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I'm Maxie, a random dog on the internet aiming to become a developer!
+I'm Alexie, a random dog on the internet aiming to become a developer!
 - 🧠I have knowledge in:
   - Python (my fav 💖💖💖😩)
   - HTML & CSS
@@ -24,5 +24,5 @@ I'm Maxie, a random dog on the internet aiming to become a developer!
   - SQL
   - XML (lovin' it! *not really*)
 - 📇How to reach me:
-  - Discord: **@Maxie#0246**
+  - Discord: **@alexiegalaxys**
 - 🚺Pronouns: She/Her
