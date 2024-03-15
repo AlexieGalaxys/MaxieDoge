@@ -15,14 +15,15 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I'm Alexie, a random dog on the internet aiming to become a developer!
+I'm Alexie, a random person on the internet aiming to become a developer!
 - 🧠I have knowledge in:
   - Python (my fav 💖💖💖😩)
   - HTML & CSS
   - Java
-  - JavaScript (really basic)
+  - JavaScript
   - SQL
   - XML (lovin' it! *not really*)
+  - PHP
 - 📇How to reach me:
   - Discord: **@alexiegalaxys**
 - 🚺Pronouns: She/Her
